@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m Partho Malakar
+- 👋 I’m Partho Malakar
 - 👀 I’m interested in developing Web Application
 - 🌱 I’m currently learning working on nestJs and typeOrm
 - 💞️ I’m looking to collaborate on innovative projects which serves the local community
